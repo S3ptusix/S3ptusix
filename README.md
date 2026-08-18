@@ -1,10 +1,10 @@
-░░░░░░░░░░██░█████████████████░█░░░░░░░░░░░░░░░░░░  # 💫 About Me:
-░░░██░███░██░░░░██████████████████████████████████ I’m a graduating Information Technology student passionate
-░░██░████████████░░░░░░░░░░░░░░████░░█████████████  about building modern full-stack web applications. I work 
-░░█░██░██░██░░░░░░░░░░░░░░░░░░░░░█████████████████ with both frontend and backend technologies to create 
-░░░█░█░████░░░░░░░░░░░░░░░░░░░░░░░░░██████████████ functional, responsive, and user-friendly applications. 
-███░░░████░░░░░░░░░░░░░░░░░░░░░░░░░░░░████████████ I also enjoy integrating AI-powered features into web apps 
-░░████░░█░░█░░░░░░░░░░░░░░░░░░░░░░░░░░░░██████████ to make them smarter, more efficient, and more useful.
+░░░░░░░░░░██░█████████████████░█░░░░░░░░░░░░░░░░░░  
+░░░██░███░██░░░░██████████████████████████████████ 
+░░██░████████████░░░░░░░░░░░░░░████░░█████████████ 
+░░█░██░██░██░░░░░░░░░░░░░░░░░░░░░█████████████████
+░░░█░█░████░░░░░░░░░░░░░░░░░░░░░░░░░██████████████
+███░░░████░░░░░░░░░░░░░░░░░░░░░░░░░░░░████████████ 
+░░████░░█░░█░░░░░░░░░░░░░░░░░░░░░░░░░░░░██████████ 
 ░░░██░░█░░█░░░░░░█░░████░██░░█░░░░░░░░░███████████
 ░░███░███░░░░░░███░█░████░████████░░░░░███████████
 ░░██░████░░░████░█████████████░█░░░░░░░███████████
@@ -26,6 +26,8 @@
 █░░░░░░░░█░░░░██████████████░░██░░░░░░░░░░░░░░███░
 ░░░░░░░░░░░░░░░██████░░░░░░░███░░░░░░░░░░░░░░░░░░░
 
+# 💫 About Me:
+I’m a graduating Information Technology student passionate about building modern full-stack web applications. I work with both frontend and backend technologies to create functional, responsive, and user-friendly applications. I also enjoy integrating AI-powered features into web apps to make them smarter, more efficient, and more useful.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jahleel.nemuel.casintahan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jahleel-casintahan-1616023a4/) 
