@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/readme_picture.png" width="100%" alt="Profile Banner">
+<img src="./assets/readme_picture.png" width="50%" alt="Profile Banner">
 
 # Jahleel Nemuel Casintahan
 
@@ -76,15 +76,15 @@ Graduating Information Technology student focused on building modern, full-stack
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.shion.dev/api?username=S3ptusix&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+<img width="50%" src="https://github-readme-stats.shion.dev/api?username=S3ptusix&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
 <br/>
 
-<img width="65%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=S3ptusix&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+<img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=S3ptusix&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=S3ptusix&theme=default&hide_border=true" alt="GitHub Streak"/>
+<img width="50%" src="https://streak-stats.demolab.com/?user=S3ptusix&theme=default&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
