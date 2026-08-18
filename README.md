@@ -87,13 +87,3 @@ Graduating Information Technology student focused on building modern, full-stack
 <img width="50%" src="https://streak-stats.demolab.com/?user=S3ptusix&theme=default&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
-<br/>
-
-<div align="center">
-<sub>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=S3ptusix&icon=0&color=grey)](https://visitcount.itsvg.in)
-
-</sub>
-</div>
