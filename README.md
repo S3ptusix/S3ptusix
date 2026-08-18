@@ -2,7 +2,7 @@
 
 <img src="./assets/readme_picture.png" width="50%" alt="Profile Banner">
 
-# Jahleel Nemuel Casintahan
+# Jahleel Casintahan
 
 **Full-Stack Web Developer | IT Graduate | AI Integration**
 
